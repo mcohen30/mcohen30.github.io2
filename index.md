@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maz's Github Pages Site
 
 You can use the [editor on GitHub](https://github.com/mcohen30/mcohen30.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
